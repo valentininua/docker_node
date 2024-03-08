@@ -11,3 +11,4 @@ RUN apt-get update && apt-get install -y \
 USER node
 
 EXPOSE 3000
+EXPOSE 5173
