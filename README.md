@@ -11,3 +11,8 @@ vue js -> package.json
 "scripts": {
     "dev": "vite --port 3000 --host 0.0.0.0",
 `
+
+
+
+
+# npm create vite 
