@@ -1,4 +1,4 @@
-FROM node:21.6.2
+FROM node:latest
 
 # Install dependencies
 RUN apt-get update && apt-get install -y \
