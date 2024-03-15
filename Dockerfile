@@ -2,7 +2,6 @@ FROM node:21.6.2
 
 # Install dependencies
 RUN apt-get update && apt-get install -y \
-    git \
     nano \
     htop \
     git \
