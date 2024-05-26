@@ -16,3 +16,18 @@ vue js -> package.json
 
 
 # npm create vite 
+
+
+# Coding example 
+
+```
+npm run dev
+```
+or
+```
+npm create vite@latest
+cd vite-project
+npm install
+npm run dev -- --host 0.0.0.0 --port 8000
+```
+
